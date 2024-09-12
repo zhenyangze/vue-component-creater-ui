@@ -29,8 +29,8 @@ npm run dev
 ## 使用介绍
 
 此前在 B 站上录了两段视频。可以通过这两段视频简单了解如何使用它:
-[【拖拽式 Vue 组件代码生成平台(LCG)介绍视频-哔哩哔哩】https://b23.tv/FInuZ8](https://b23.tv/FInuZ8)
-[【LCG 近期功能更新介绍-哔哩哔哩】https://b23.tv/SAHwVq](https://b23.tv/SAHwVq)
+[【拖拽式Vue组件代码生成平台(LCG)介绍视频】 https://www.bilibili.com/video/BV17h411f7g2/)
+[【拖拽式Vue组件代码生成平台(LCG)介绍视频】 https://www.bilibili.com/video/BV17h411f7g2/)
 
 ### 说明文档
 
